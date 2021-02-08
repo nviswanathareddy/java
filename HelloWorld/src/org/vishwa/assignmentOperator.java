@@ -1,0 +1,22 @@
+package org.vishwa;
+
+public class assignmentOperator {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int x = 17;
+		int y = x;
+		int z = x + y;
+		
+		int a = 7;
+		a = a + 3; // a += 3;
+		
+		System.out.println("The Value of X is : " +x );
+		System.out.println("The Value of Y is : " +y );
+		System.out.println("The Value of Z (or) Sum of X and Y is : " +z);
+		
+		System.out.println("The Value of A is " + a);
+
+	}
+
+}
