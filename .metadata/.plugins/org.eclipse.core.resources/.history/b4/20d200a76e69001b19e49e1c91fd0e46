@@ -1,0 +1,23 @@
+package org.vishwa;
+
+public class HelloWorld {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int x = -17;
+		int y = 10;
+		int z = 7;
+		
+		System.out.println("The Initial Value of X is : " +(x) );
+		System.out.println("The Negative Value of X is : " +(-x) );
+		
+		//Post Increment Operator
+		System.out.println("The Initial Value of Y is : " +(y++) );
+		System.out.println("The Post Increased Value of Y is : " +(y++) );
+		
+		//Pre Increment Operator
+		System.out.println("The Pre Increased Value of Y is : " +(++z) );
+
+	}
+
+}

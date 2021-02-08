@@ -1,0 +1,16 @@
+package org.vishwa;
+
+public class HelloWorld {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int x = 17;
+		int y = x;
+		int z = x + y;
+		System.out.println("The value of X is : " +x );
+		System.out.println("The value of Y is : " +y );
+		System.out.println("The Value of Z / Sum of X and Y is : " +z);
+
+	}
+
+}
