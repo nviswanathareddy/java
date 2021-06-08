@@ -1,5 +1,1 @@
-@Component(metatype = true)
-@Service(Servlet.class)
-@Properties({
-  @Property(name = "sling.servlet.paths", value = "/libs/myservlet"),
-})
+https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/shorten-url-in-model-json-output/qaq-p/275536
